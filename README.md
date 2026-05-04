@@ -1,57 +1,41 @@
-# Hi 👋, I'm Haider Ali  
+# 🐟 Fish Farming Guide App  
 
-### 🚀 React Native Developer | Full Stack Developer  
-
-📍 Rawalpindi, Pakistan  
-📧 ali9292haider@gmail.com  
-
----
-
-## 💡 About Me  
-
-- 🎯 Passionate about building mobile apps using React Native  
-- ⚡ Skilled in Node.js backend development  
-- 📱 Focused on real-world problem-solving applications  
-- 🚀 Currently working on full-stack mobile solutions  
+## 🚀 Overview  
+A full-stack mobile application designed to help manage fish farming operations efficiently.  
+Built using React Native for mobile and Node.js for backend services.
 
 ---
 
 ## 🛠️ Tech Stack  
-
-### 📱 Frontend  
-- React Native  
-- React.js  
-
-### ⚙️ Backend  
-- Node.js (Express.js)  
-
-### 🗄️ Database  
-- MySQL  
-
-### 💻 Languages  
-- JavaScript, C#, C++  
+- 📱 React Native  
+- ⚙️ Node.js (Express.js)  
+- 🗄️ MySQL  
 
 ---
 
-## 🚀 Projects  
+## 📱 Features  
 
-### 🐟 Fish Farming Guide App  
-📱 React Native + Node.js + MySQL  
-
-- Full-stack mobile application  
-- REST APIs with Node.js  
-- Authentication system (Login/Signup)  
-- CRUD operations  
-- User-friendly UI (Figma)  
+- 🔐 User Authentication (Login/Signup)  
+- 🔄 Full CRUD Operations  
+- 🌐 REST API Integration  
+- 📊 Data Management System  
+- 🎨 Clean & User-Friendly UI  
 
 ---
 
-## 📊 GitHub Stats  
+## 📸 Screenshots  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ali-Haider7&show_icons=true&theme=tokyonight)
+(Add your screenshots here)
+
+Example:
+
+![App Screenshot](screenshot1.png)
 
 ---
 
-## 📫 Connect With Me  
+## ⚙️ Installation  
 
-- LinkedIn: https://linkedin.com/in/haider-ali-4367752b6  
+### Backend:
+```bash
+npm install
+npm start
