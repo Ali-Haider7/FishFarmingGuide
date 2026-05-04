@@ -1,41 +1,35 @@
-# 🐟 Fish Farming Guide App  
+## 🐟 Fish Farming Guide App
 
-## 🚀 Overview  
-A full-stack mobile application designed to help manage fish farming operations efficiently.  
-Built using React Native for mobile and Node.js for backend services.
+> 📱 A real-world mobile app for managing fish farms with data tracking & recommendations.
 
----
+### 🔗 Quick Links
+- Demo Video: (YouTube/Drive link)
+- GitHub: (repo link)
 
-## 🛠️ Tech Stack  
-- 📱 React Native  
-- ⚙️ Node.js (Express.js)  
-- 🗄️ MySQL  
+### 📊 Highlights
+- ✔ Authentication (JWT)
+- ✔ CRUD (Feed, Fish, Stock)
+- ✔ REST API (Node.js)
+- ✔ MySQL Database
+- ✔ Clean UI (React Native)
 
----
+## 📸 App Preview
+<p align="center">
+  <img src="screenshot-login.png" width="220"/>
+  <img src="screenshot-dashboard.png" width="220"/>
+  <img src="screenshot-feature.png" width="220"/>
+  <img src="screenshot-fishSpecies.png" width="220"/>
+</p>
 
-## 📱 Features  
+## ⚙️ Tech Stack
+React Native | Node.js | MySQL | Express
 
-- 🔐 User Authentication (Login/Signup)  
-- 🔄 Full CRUD Operations  
-- 🌐 REST API Integration  
-- 📊 Data Management System  
-- 🎨 Clean & User-Friendly UI  
+## 🚀 Installation
+... (already good)
 
----
-
-## 📸 Screenshots  
-
-(Add your screenshots here)
-
-Example:
-
-![App Screenshot](screenshot1.png)
-
----
-
-## ⚙️ Installation  
-
-### Backend:
-```bash
-npm install
-npm start
+## 📂 API Endpoints (VERY IMPORTANT)
+| Method | Endpoint | Description |
+|-------|--------|------------|
+| POST | /api/auth/login | Login user |
+| POST | /api/fish | Add fish |
+| GET  | /api/fish | Get all fish |
